@@ -4,6 +4,7 @@
 
 #### CRA Fix
 
+https://reactcocktail99.netlify.app/
 ```
 
 "build": "CI= react-scripts build",
